@@ -32,7 +32,7 @@ Compare Linear Regressin and CNN for Future Sales Predict <br/>
 *shop_id*			            :unique identifier of a shop <br/>
 *item_id*			            :unique identifier of a product <br/>
 <br/>
-**sample_submission.csv**
+**sample_submission.csv**<br/>
 <br/>
 *ID*			               :an Id that represents a (Shop, Item) tuple within the test set <br/>
 *item_cnt_day*	       :number of products sold. You are predicting a monthly amount of this measure <br/>
@@ -42,7 +42,7 @@ Compare Linear Regressin and CNN for Future Sales Predict <br/>
 *item_category_name*	  :name of item category <br/>
 *item_category_id*	    :unique identifier of item category <br/>
 <br/>
-**shops.csv**
+**shops.csv**<br/>
 <br/>
 *shop_name*		          :name of shop <br/>
 *shop_id*			          :unique identifier of a shop <br/>
@@ -54,6 +54,7 @@ In the data there ara 33 months between two date and there are 60 shops.We can s
 We can see an increase on sales every 12th month. <br/>
 <br/>
 ![Graphs about Data](https://github.com/arem5/Future_Sales_Predict/blob/master/result/DataExp.png) 
+
 <br/>
 <br/>
 # TRAIN <br/> 
