@@ -68,7 +68,7 @@ You can see the predict result in *'result'* folder.  <br/>
 <br/>
 ![CNN_Acc](https://github.com/arem5/Future_Sales_Predict/blob/master/result/Cnn_model_acc.png)  <br/>
 ![CNN_Loss](https://github.com/arem5/Future_Sales_Predict/blob/master/result/Cnn_model_loss.png) <br/>
-![LR_Acc](https://github.com/arem5/Future_Sales_Predict/blob/master/result/Linear_model_acc.png) <br/>
+![Lr_Acc](https://github.com/arem5/Future_Sales_Predict/blob/master/result/Linear_model_acc.png) <br/>
 ![Lr_Loss](https://github.com/arem5/Future_Sales_Predict/blob/master/result/Linear_model_Loss.png) <br/>
 <br/>
 I make dataset with <br/>
