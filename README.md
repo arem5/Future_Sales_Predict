@@ -58,19 +58,19 @@ We can see an increase on sales every 12th month. <br/>
 # TRAIN <br/> 
  <br/>
 I compare two method in this project for "Predict Future Sales" . <br/>
-1) *Linear Regression*  <br/>
+1) *Linear* *Regression*  <br/>
 2) *Convolution Neural Network* <br/>
 <br/>
 <br/>
 You can see the predict result in *'result'* folder.  <br/>
-![CNN_Acc](https://github.com/arem5/Future_Sales_Predict/blob/master/result/Cnn_model_acc.png)  
-![CNN_Loss](https://github.com/arem5/Future_Sales_Predict/blob/master/result/Cnn_model_loss.png) 
-![LR_Acc](https://github.com/arem5/Future_Sales_Predict/blob/master/result/Linear_model_acc.png) 
-![Lr_Loss](https://github.com/arem5/Future_Sales_Predict/blob/master/result/Linear_model_Loss.png) 
+![CNN_Acc](https://github.com/arem5/Future_Sales_Predict/blob/master/result/Cnn_model_acc.png)  <br/>
+![CNN_Loss](https://github.com/arem5/Future_Sales_Predict/blob/master/result/Cnn_model_loss.png) <br/>
+![LR_Acc](https://github.com/arem5/Future_Sales_Predict/blob/master/result/Linear_model_acc.png) <br/>
+![Lr_Loss](https://github.com/arem5/Future_Sales_Predict/blob/master/result/Linear_model_Loss.png) <br/>
 <br/>
 I make dataset with <br/>
-*'item_cnt_day'* values with the same id are added together and filled substituted 0 for *'NaN'* values . <br/>
+*'item_cnt_day'* values with the same id are added together and filled substituted 0 for *NaN* values . <br/>
 After I have Merged *shop_id* and *item_id* in test and train dataset and have occoured dataset for  
-train with **'Linear Regression'** and **'Convolution Neural Network'**. 
+train with **Linear Regression** and **Convolution Neural Network**. 
 
 
